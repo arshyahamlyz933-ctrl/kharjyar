@@ -1,8 +1,11 @@
+
 [project]
 name = "kharjyar"
 version = "1.0.0"
 requires-python = ">=3.9"
 dependencies = [
-    "flet"
-    "jdatetime"
+    "flet",
+    "jdatetime",
 ]
+
+
