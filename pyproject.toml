@@ -1,4 +1,3 @@
-
 [project]
 name = "kharjyar"
 version = "1.0.0"
@@ -7,3 +6,4 @@ dependencies = [
     "flet==1.1.2",
     "jdatetime",
 ]
+
